@@ -21,11 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.pinterest.com/Keshav_Khanth/" target="blank"><img align="center" src="https://seeklogo.com/images/P/pinterest-logo-8561DDA2E1-seeklogo.com.png" alt="Keshav Khanth" height="" width="40" /></a>
 <a href="https://twitter.com/keshav_kk28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keshav_kk28" height="30" width="40" /></a>
+<a href="https://www.facebook.com/keshav.khanth.007" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="keshav khanth" height="" width="40" /></a>
 <a href="https://linkedin.com/in/keshav-khanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-khanth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCCbKTDvUdwvvHRCm9OXYnIA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unique tech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCbKTDvUdwvvHRCm9OXYnIA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unique tech" height="" width="40" /></a>
 <a href="https://www.hackerrank.com/keshavkhanth_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshavkhanth_t" height="30" width="40" /></a>
-<a href="https://discord.gg/keshav khanth#9993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keshav khanth#9993" height="30" width="40" /></a>
+<a href="https://discord.gg/keshav khanth#9993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keshav khanth#9993" height="" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
