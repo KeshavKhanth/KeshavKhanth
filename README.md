@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshav Khanth</h1>
+<h1 align="center">Hi<picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="30" height="30"></picture>, I'm Keshav Khanth</h1>
 <h3 align="center">A passionate frontend developer & UI Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavkhanth&label=Profile%20views&color=0e75b6&style=flat" alt="keshavkhanth" /> </p>
